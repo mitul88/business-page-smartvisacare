@@ -18,8 +18,9 @@
   align-items: center;
 }
 
-.logo {
-  width: 140px;
+.logo-text {
+  /* width: 140px; */
+  color: #ffffff;
   position: absolute;
   top: 4%;
   left: 10%;
@@ -261,11 +262,11 @@ hr {
 }
 
 .service-description p {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .single-service:hover .service-description {
-  bottom: 40%;
+  bottom: 10%;
   opacity: 1;
 }
 
